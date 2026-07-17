@@ -58,3 +58,8 @@ A desktop weather application built using **Python** and **Tkinter**. The app co
 
 5. The Weather App will launch. 🌦️
 
+---
+
+Made by Shaurya Parmar 😊
+
+
