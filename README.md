@@ -46,3 +46,11 @@ A desktop weather application built using **Python** and **Tkinter**. The app co
    
 5. 🖥️ The weather information is displayed in the Tkinter interface.
 
+## ▶️ How to Run
+
+1. Download the repository.
+2. Open the project folder in **Visual Studio Code**.
+3. Open `weather.py`.
+4. Press the ▶️ **Run Python File** button in the top-right corner.
+5. The Weather App will launch. 🌦️
+
